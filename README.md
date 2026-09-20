@@ -1,4 +1,4 @@
-# ...
+
 const floatParticles = [];
 const burstParticles = [];
 const FLOAT_COUNT = 140;
